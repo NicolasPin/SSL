@@ -13,7 +13,7 @@
 void imprimirTablaFahr(){
     printf("Tabla de Fahrenheit a Celsius\n");
     for (double fahr = LOWERf; fahr <= UPPERf; fahr += STEPf)
-        printf("%3.0f\t%6.1f\n", fahr, to_celsius(fahr));
+        printf("%3.0f\t%6.1f\n", fahr, to_celsius(fahr)); //%3.0f el 3 es la cantidad entera que quiero y el 0 es la cantidad de decimales
 }
 
 void imprimirTablaCel(){

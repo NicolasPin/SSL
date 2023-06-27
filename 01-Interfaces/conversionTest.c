@@ -4,7 +4,7 @@
 
 void imprimirTablaFahr();
 void imprimirTablaCel();
-
+//Solo puedo tener un main en mi makefile
 int main(){
     //agregar mas pruebas
     

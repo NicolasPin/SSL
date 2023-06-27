@@ -1,0 +1,2 @@
+Trabajo práctico número 1.
+En este trabajo practico utilizamos varios archivos .c /.h para generar un ejectuable mediante la herramienta Makefile, la cual nos permite automatizar el proceso de compilacion.
